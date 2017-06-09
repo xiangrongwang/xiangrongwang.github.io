@@ -1,5 +1,5 @@
 # Site wide configuration
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Xiangrong Wang (王向荣)
 locale: en_US
 description: Postdoc in Delft University of Technology
