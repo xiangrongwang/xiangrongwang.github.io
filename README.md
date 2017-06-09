@@ -11,7 +11,7 @@ Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Techno
 ### Professional Services
 
 ### Contact
-** Dr.Xiangrong Wang ** 
+**Dr.Xiangrong Wang** 
 Delft University of Technology
 Email: X.Wang-2@tudelft.nl
 
