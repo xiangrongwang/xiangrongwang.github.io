@@ -5,7 +5,8 @@ Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Techno
 ### What's new
 
 ### Publications
-- `Improving robustness of complex networks via the effective graph resistance`
+- [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0)
+- [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/)
 
 ### Professional Services
 
