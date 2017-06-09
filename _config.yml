@@ -1,3 +1,28 @@
 theme: jekyll-theme-minimal
 title: Xiangrong Wang (王向荣)
+locale: en_US
 description: Postdoc in Delft University of Technology
+
+owner:
+  name: Xiangrong Wang
+  avatar: xiangrong.jpeg
+  bio: "Postdoc in Delft University of Technology."
+  email: lvdmaaten@gmail.com
+  disqus-shortname: 
+  google:
+    plus: LaurensvanderMaaten
+    analytics: UA-55688460-3
+    scholar: 6GDfcqEAAAAJ  # not supported by jekyll?
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  instagram: #
+  lastfm: #
+  tumblr: #
+  pinterest: #
+  foursquare: #
+  steam: #
+  dribbble: #
+  youtube: #
+  soundcloud: #
