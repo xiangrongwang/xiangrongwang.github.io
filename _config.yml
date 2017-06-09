@@ -27,5 +27,3 @@ owner:
   bio: "Postdoc in Delft University of Technology."
   email: x.wang-2@tudelft.nl
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE"]
