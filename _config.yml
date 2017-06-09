@@ -3,24 +3,6 @@
 title: Xiangrong Wang (王向荣)
 locale: en_US
 description: Postdoc in Delft University of Technology
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
   
 owner:
   name: Xiangrong Wang
