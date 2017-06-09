@@ -1,6 +1,6 @@
 ## Xiangrong Wang (王向荣)
 
-bio here
+Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of Prof. Piet Van Mieghem and Prof. Robert E. Kooij.  Her PhD topic focused on the robustness of networks,  from both theoretical and applicable perspectives. Since March of 2017, she is a postdoctoral researcher in the department of applied mathematics at TUDelft under the supervision of Johan Dubbeldam.  Her current research project is the robustness of logistic networks. 
 
 ### Markdown
 
