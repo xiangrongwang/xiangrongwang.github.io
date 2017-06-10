@@ -27,7 +27,10 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 - Xiangrong Wang, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij. [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf). 6th International Symposium on Transportation Network Reliability, Japan, 2015
 - Xiangrong Wang, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
-## Professional Services
+## Reviewer Experiences
+Physica A: Statistical Mechanics and its Applications;  
+Automatica;  
+Transportation Research Part D: Transport and Environment
 
 ## Teaching
 Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
