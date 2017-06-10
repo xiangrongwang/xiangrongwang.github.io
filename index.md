@@ -11,6 +11,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## Research Interest
 - Complex networks
 - Graph spectra
+- Interdependent / multiplex networks
 - Logistic networks
 
 ## Publications 
