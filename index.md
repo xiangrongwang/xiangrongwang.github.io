@@ -5,7 +5,7 @@ Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Techno
 Her PhD topic focused on the robustness of networks,  from both theoretical and applicable perspectives. Since March of 2017, she is a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/).  Her current research project is the robustness of logistic networks. 
 
 ## What's New
-Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
+11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
 
 ## Research Interest
 
