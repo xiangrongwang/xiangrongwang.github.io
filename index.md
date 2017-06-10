@@ -7,7 +7,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## What's New
 
 ## Publications
-- Xiangrong Wang, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0)
+- Xiangrong Wang, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 - [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/)
 
 ## Professional Services
