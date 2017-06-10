@@ -9,6 +9,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## Research Interest
 
 ## Publications
+- Xiangrong Wang, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij. [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675). Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
 - Xiangrong Wang, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 - Xiangrong Wang and Piet Van Meighem. [Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf). 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
 - Xiangrong Wang, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij. [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf). 6th International Symposium on Transportation Network Reliability, Japan, 2015
