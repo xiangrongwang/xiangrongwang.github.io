@@ -9,6 +9,9 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 * 21/12/2016: I succeeded in PhD Defense and obtained PhD degree in Delft University of Technology.
 
 ## Research Interest
+- Complex networks
+- Graph spectra
+- Logistic networks
 
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
