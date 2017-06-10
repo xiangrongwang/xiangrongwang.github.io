@@ -8,8 +8,10 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 
 ## Publications
 - Xiangrong Wang, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
+- Xiangrong Wang and Piet Van Meighem. [Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf). 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
 - Xiangrong Wang, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 - Xiangrong Wang, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
+
 ## Professional Services
 
 ## Contact
