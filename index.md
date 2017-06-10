@@ -30,7 +30,8 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## Reviewer Experiences
 Physica A: Statistical Mechanics and its Applications;  
 Automatica;  
-Transportation Research Part D: Transport and Environment
+Transportation Research Part D: Transport and Environment;  
+IFIP Networking Conference;  
 
 ## Teaching
 Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
