@@ -6,7 +6,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 
 ## News
 * 11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
-* 21/12/2016: I succeeded in PhD Defense and obtained PhD degree in Delft University of Technology.
+* 21/12/2016: I succeeded in PhD Defense and obtained my PhD degree in Delft University of Technology.
 
 ## Research Interest
 - Complex networks
