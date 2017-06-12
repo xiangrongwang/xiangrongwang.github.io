@@ -32,10 +32,10 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 - Xiangrong Wang, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Reviewer Experiences
-Physica A: Statistical Mechanics and its Applications;  
-Automatica;  
-Transportation Research Part D: Transport and Environment;  
-IFIP Networking Conference;  
+- Physica A: Statistical Mechanics and its Applications;  
+- Automatica;  
+- Transportation Research Part D: Transport and Environment;  
+- IFIP Networking Conference;  
 
 ## Teaching
 Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
