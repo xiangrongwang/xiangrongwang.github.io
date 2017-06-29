@@ -6,7 +6,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 
 ## News
 * 29/06/2017: Our paper [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675) is reported by [De Volkskrant (a Dutch daily newspaper)]( http://www.volkskrant.nl/wetenschap/er-hoeft-maar-dit-te-gebeuren-en-het-hele-metronet-ligt-stil~a4503063/).
-![De Volkskrant](metro_article_deVolkstrant.png =400x100)
+![De Volkskrant](metro_article_deVolkstrant.png){:width="400px"}
 
 * 11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
 * 21/12/2016: I succeeded in PhD Defense and obtained my PhD degree in Delft University of Technology.
