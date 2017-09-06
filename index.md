@@ -49,7 +49,7 @@ The European Physical Journal B, 87(9):221, 2014.
 [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf).  
 6th International Symposium on Transportation Network Reliability, Japan, 2015
 - __Xiangrong Wang__, Yakup Koc, Robert E. Kooij and Piet Van Mieghem.  
-[A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).    Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
+[A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).         Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Reviewer Experiences
 - Physica A: Statistical Mechanics and its Applications;  
