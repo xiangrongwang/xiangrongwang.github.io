@@ -7,7 +7,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## News
 * 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
 * 29/06/2017: Our paper [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675) is reported by [De Volkskrant (a Dutch daily newspaper)]( http://www.volkskrant.nl/wetenschap/er-hoeft-maar-dit-te-gebeuren-en-het-hele-metronet-ligt-stil~a4503063/).   
-<img align="right" width='300' src= "metro_article_deVolkstrant.png">  
+<img align="left" width='300' src= "metro_article_deVolkstrant.png">  
 
 * 11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
 * 21/12/2016: I succeeded in PhD Defense and obtained my PhD degree in Delft University of Technology.
