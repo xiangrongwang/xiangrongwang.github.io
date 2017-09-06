@@ -5,7 +5,7 @@ Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Techno
 Her PhD topic focused on the robustness of networks,  from both theoretical and applicable perspectives. Since March of 2017, she is a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/).  Her current research project is the robustness of logistic networks. 
 
 ## News
-* 05/09/2017: one paper [Kemeny’s constant and the effective graph resistance](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
+* 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
 * 29/06/2017: Our paper [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675) is reported by [De Volkskrant (a Dutch daily newspaper)]( http://www.volkskrant.nl/wetenschap/er-hoeft-maar-dit-te-gebeuren-en-het-hele-metronet-ligt-stil~a4503063/). 
         <img align="middle" width='500' src= "metro_article_deVolkstrant.png">  
 
@@ -25,6 +25,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 - Xiangrong wang. [Robustness of complex networks: Theory and application](https://repository.tudelft.nl/islandora/object/uuid:c107cc92-d275-45df-ad56-b754e8ead98c/datastream/OBJ/view), 2016.
 
 ### Journals
+- __Xiangrong Wang__,  J. L. A. Dubbeldam and P. Van Mieghem. ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf). Linear Algebra and its Applications, to appear.
 - __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij. [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675). Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
 - __Xiangrong Wang__, Robert E Kooij and Piet Van Mieghem. [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf). Physical Review E, 94(4), 2016. 
 - __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
