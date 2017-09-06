@@ -7,7 +7,7 @@ Her PhD topic focused on the robustness of networks,  from both theoretical and 
 ## News
 * 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
 * 29/06/2017: Our paper [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675) is reported by [De Volkskrant (a Dutch daily newspaper)]( http://www.volkskrant.nl/wetenschap/er-hoeft-maar-dit-te-gebeuren-en-het-hele-metronet-ligt-stil~a4503063/). 
-        <img align="middle" width='500' src= "metro_article_deVolkstrant.png">  
+        <img align="middle" width='300' src= "metro_article_deVolkstrant.png">  
 
 * 11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
 * 21/12/2016: I succeeded in PhD Defense and obtained my PhD degree in Delft University of Technology.
@@ -42,9 +42,14 @@ Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
-- __Xiangrong Wang__ and Piet Van Meighem. [Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf). 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
-- __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij. [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf). 6th International Symposium on Transportation Network Reliability, Japan, 2015
-- __Xiangrong Wang__, Yakup Koc, Robert E. Kooij and Piet Van Mieghem. [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/). Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
+- __Xiangrong Wang__ and Piet Van Meighem.  
+[Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf).  
+11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
+- __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij.  
+[Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf).  
+6th International Symposium on Transportation Network Reliability, Japan, 2015
+- __Xiangrong Wang__, Yakup Koc, Robert E. Kooij and Piet Van Mieghem.  
+[A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).   Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Reviewer Experiences
 - Physica A: Statistical Mechanics and its Applications;  
