@@ -56,7 +56,8 @@ Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 201
 - Physica A: Statistical Mechanics and its Applications;  
 - Automatica;  
 - Transportation Research Part D: Transport and Environment;  
-- IFIP Networking Conference;  
+- IFIP Networking Conference; 
+- Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
 Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
