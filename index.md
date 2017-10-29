@@ -53,8 +53,10 @@ The European Physical Journal B, 87(9):221, 2014.
 Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Research Experiences
-- 10/2017 - 10/2017 University of Girona.
-  Visiting scholar supported by COST, RECODIS.
+- 10/2017 - 10/2017 University of Girona
+
+  Visiting scholar supported by COST, RECODIS
+  
   Supervisors: [Prof. Josep L Marzo](http://eia.udg.edu/~marzo/)
 
 ## Reviewer Experiences
