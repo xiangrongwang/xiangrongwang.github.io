@@ -51,11 +51,13 @@ The European Physical Journal B, 87(9):221, 2014.
 - __Xiangrong Wang__, Yakup Koc, Robert E. Kooij and Piet Van Mieghem.  
 [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).         
 Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
-## Research Experiences
+### Research Experiences
 - 10/2017 - 10/2017 University of Girona
+
   Visiting scholar supported by COST, RECODIS
-  Supervisors: Prof. Josep L Marzo (http://eia.udg.edu/~marzo/)
-## Reviewer Experiences
+  
+  Supervisors: [Prof. Josep L Marzo](http://eia.udg.edu/~marzo/)
+### Reviewer Experiences
 - Physica A: Statistical Mechanics and its Applications;  
 - Automatica;  
 - Transportation Research Part D: Transport and Environment;  
