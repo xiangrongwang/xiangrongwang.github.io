@@ -54,9 +54,7 @@ Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 201
 
 ## Research Experiences
 - 10/2017 - 10/2017 University of Girona
-
   Visiting scholar supported by COST, RECODIS
-  
   Supervisors: [Prof. Josep L Marzo](http://eia.udg.edu/~marzo/)
 
 ## Reviewer Experiences
