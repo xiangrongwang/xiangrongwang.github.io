@@ -4,7 +4,6 @@
 Xiangrong Wang obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/).
 Her PhD topic focused on the robustness of networks,  from both theoretical and applicable perspectives. Since March of 2017, she is a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/).  Her current research project is the robustness of logistic networks. 
 
-She is currently visiting the Institute of Biocomputaton and Physics of Complex Systems (BIFI) in University of Zaragoza, working with [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/).
 
 ## News
 * 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
@@ -55,7 +54,7 @@ The European Physical Journal B, 87(9):221, 2014.
 Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Research Experiences
-- 10/2017 – 01/2018 Institute of Biocomputaton and Physics of Complex Systems (BIFI), University of Zaragoza  
+- 10/2017 – 02/2018 Institute of Biocomputaton and Physics of Complex Systems (BIFI), University of Zaragoza  
   Visiting Scholar  
   With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
 
