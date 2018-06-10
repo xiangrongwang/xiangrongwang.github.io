@@ -54,6 +54,10 @@ The European Physical Journal B, 87(9):221, 2014.
 Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
 
 ## Research Experiences
+- 04/2018 – 04/2018 ISI Foundation, Italy  
+  Visiting Scholar  
+  With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
+  
 - 10/2017 – 02/2018 Institute of Biocomputaton and Physics of Complex Systems (BIFI), University of Zaragoza  
   Visiting Scholar  
   With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
