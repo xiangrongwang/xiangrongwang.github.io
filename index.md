@@ -59,7 +59,7 @@ Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 201
   Visiting Scholar  
   With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
   
-- 10/2017 – 02/2018 Institute of Biocomputaton and Physics of Complex Systems (BIFI), University of Zaragoza  
+- 10/2017 – 02/2018 Institute of Biocomputation and Physics of Complex Systems (BIFI), University of Zaragoza  
   Visiting Scholar  
   With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
 
