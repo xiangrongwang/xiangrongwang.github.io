@@ -29,7 +29,7 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ### Journals
 - __Xiangrong Wang__,  J. L. A. Dubbeldam and P. Van Mieghem.  
 [Kemeny’s constant and the effective graph resistance](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf).  
-Linear Algebra and its Applications, vol. 535, pp 231-244.
+Linear Algebra and its Applications, vol. 535, pp 231-244, 2017.
 - __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij.  
 [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675).  
 Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
