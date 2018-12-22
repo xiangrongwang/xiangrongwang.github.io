@@ -48,6 +48,9 @@ Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
+- __Xiangrong Wang__, Ling Feng, Robert E Kooij, and Jose L Marzo.  
+[Inconsistencies among Spectral Robustness Metrics](https://www.researchgate.net/publication/329863810_Inconsistencies_among_Spectral_Robustness_Metrics).  
+14th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness, Vietnam, 2018.
 - __Xiangrong Wang__ and Piet Van Meighem.  
 [Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf).  
 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
