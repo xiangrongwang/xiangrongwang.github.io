@@ -24,9 +24,6 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
-### PhD Thesis
-- Xiangrong wang. [Robustness of complex networks: Theory and application](https://repository.tudelft.nl/islandora/object/uuid:c107cc92-d275-45df-ad56-b754e8ead98c/datastream/OBJ/view), 2016.
-
 ### Journals
 - __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
 [Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf).  
@@ -59,7 +56,10 @@ The European Physical Journal B, 87(9):221, 2014.
 6th International Symposium on Transportation Network Reliability, Japan, 2015
 - __Xiangrong Wang__, Yakup Koc, Robert E. Kooij and Piet Van Mieghem.  
 [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).         
-Reliable Networks Design and Modeling (RNDM), 7th International Workshop on, 2015.
+7th International Workshop on Reliable Networks Design and Modeling (RNDM), 2015.
+
+### PhD Thesis
+- Xiangrong wang. [Robustness of complex networks: Theory and application](https://repository.tudelft.nl/islandora/object/uuid:c107cc92-d275-45df-ad56-b754e8ead98c/datastream/OBJ/view), 2016.
 
 ## Research Experiences
 - 04/2018 – 04/2018 ISI Foundation, Italy  
