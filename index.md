@@ -71,7 +71,7 @@ The European Physical Journal B, 87(9):221, 2014.
   With [Prof. Yamir Moreno]( http://cosnet.bifi.es/people/yamir-moreno/)
 
 - 10/2017 - 10/2017 University of Girona  
-  Visiting scholar supported by COST, RECODIS  
+  Visiting scholar supported by [COST, RECODIS](https://www.cost.eu/)  
   With [Prof. Josep L Marzo](http://eia.udg.edu/~marzo/)
 
 ## Reviewer Experiences
