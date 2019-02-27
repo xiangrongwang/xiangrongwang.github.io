@@ -45,6 +45,9 @@ Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
+- Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.
+[Memory-Attended Recurrent Network for Video Captioning]().
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 - __Xiangrong Wang__, Ling Feng, Robert E Kooij, and Jose L Marzo.  
 [Inconsistencies among Spectral Robustness Metrics](https://www.researchgate.net/publication/329863810_Inconsistencies_among_Spectral_Robustness_Metrics).  
 14th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness, Vietnam, 2018.
