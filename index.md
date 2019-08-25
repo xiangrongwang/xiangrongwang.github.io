@@ -6,7 +6,7 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 
 
 ## News
-* 16/08/2019: one paper ['Directionality reduces the impact of epidemics in multilayer networks'](http://iopscience.iop.org/page/acceptedmanuscripts) is accepted in New Journal of Physics.
+* 16/08/2019: one paper ['Directionality reduces the impact of epidemics in multilayer networks'](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0) is accepted in New Journal of Physics.
 * 21/12/2018: one paper ['Structural transition in interdependent networks with regular interconnections'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf) is accepted in Physical Review E.
 * 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
 * 29/06/2017: Our paper [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675) is reported by [De Volkskrant (a Dutch daily newspaper)]( http://www.volkskrant.nl/wetenschap/er-hoeft-maar-dit-te-gebeuren-en-het-hele-metronet-ligt-stil~a4503063/).   
@@ -27,7 +27,8 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 
 ### Journals
 - __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.  
-['Directionality reduces the impact of epidemics in multilayer networks'](http://iopscience.iop.org/page/acceptedmanuscripts).   
+[Directionality reduces the impact of epidemics in multilayer networks]
+(https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0).   
 New Journal of Physics, 2019.
 - __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
 [Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf).  
