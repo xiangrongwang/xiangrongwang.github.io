@@ -28,7 +28,7 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ### Journals
 - __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.  
 [Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0)    
-New Journal of Physics, 2019.
+New Journal of Physics, 21(9), 093026, 2019.
 - __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
 [Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf).  
 Physical Review E, 99(1), 2019.
