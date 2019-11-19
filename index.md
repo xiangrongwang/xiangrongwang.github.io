@@ -50,7 +50,7 @@ The European Physical Journal B, 87(9):221, 2014.
 
 ### Conferences
 - Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
-[Memory-Attended Recurrent Network for Video Captioning]().  
+[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/html/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.html).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - __Xiangrong Wang__, Ling Feng, Robert E Kooij, and Jose L Marzo.  
 [Inconsistencies among Spectral Robustness Metrics](https://www.researchgate.net/publication/329863810_Inconsistencies_among_Spectral_Robustness_Metrics).  
