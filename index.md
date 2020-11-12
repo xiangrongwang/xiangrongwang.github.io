@@ -21,8 +21,8 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 - Complex networks
 - Graph spectra
 - Multiplex networks
-- Logistic networks
 - Ecological networks
+- Graph neural networks
 
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
@@ -84,10 +84,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
   With [Prof. Josep L Marzo](http://eia.udg.edu/~marzo/)
 
 ## Reviewer Experiences
-- Physica A: Statistical Mechanics and its Applications;  
-- Automatica;  
-- Transportation Research Part D: Transport and Environment;  
-- IFIP Networking Conference; 
+- New Journal of Physics;  
+- Automatica; Physica A;Transportation Research Part D;   
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
