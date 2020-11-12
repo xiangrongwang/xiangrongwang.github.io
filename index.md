@@ -85,7 +85,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 
 ## Reviewer Experiences
 - New Journal of Physics;  
-- Automatica; Physica A;Transportation Research Part D;   
+- Automatica; Physica A; Transportation Research Part D;   
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
