@@ -8,6 +8,7 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 
 
 ## News
+* 13/01/2021: one paper ['Unique superdiffusion induced by directionality in multiplex networks'](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta) is accepted in New Journal of Physics.
 * 16/08/2019: one paper ['Directionality reduces the impact of epidemics in multilayer networks'](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0) is accepted in New Journal of Physics.
 * 21/12/2018: one paper ['Structural transition in interdependent networks with regular interconnections'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf) is accepted in Physical Review E.
 * 05/09/2017: one paper ['Kemeny’s constant and the effective graph resistance'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf) is accepted in Linear Algebra and its Applications.
