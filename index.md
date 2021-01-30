@@ -29,11 +29,11 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-8\. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.  
+#### 8\. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.  
 [Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
 New Journal of Physics, 23, 013016, 2021.
 
-7\. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.  
+#### 7\. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.  
 [Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0)    
 New Journal of Physics, 21(9), 093026, 2019.
 
@@ -53,11 +53,11 @@ Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
 [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf).  
 Physical Review E, 94(4), 2016. 
 
-2\.   __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem.  
+2\. __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem.  
 [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf).  
 Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 
-1\.   __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem.  
+1\. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem.  
 [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0).  
 The European Physical Journal B, 87(9):221, 2014. 
 
