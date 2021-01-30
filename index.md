@@ -44,16 +44,20 @@ Physical Review E, 99(1), 2019.
 5\. __Xiangrong Wang__,  J. L. A. Dubbeldam and P. Van Mieghem.  
 [Kemeny’s constant and the effective graph resistance](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf).  
 Linear Algebra and its Applications, vol. 535, pp 231-244, 2017.
-4. __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij.  
+
+4\. __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij.  
 [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675).  
 Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
-3. __Xiangrong Wang__, Robert E Kooij and Piet Van Mieghem.  
+
+3\. __Xiangrong Wang__, Robert E Kooij and Piet Van Mieghem.  
 [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf).  
 Physical Review E, 94(4), 2016. 
-2. __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem.  
+
+2\.   __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem.  
 [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf).  
 Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
-1. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem.  
+
+1\.   __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem.  
 [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0).  
 The European Physical Journal B, 87(9):221, 2014. 
 
