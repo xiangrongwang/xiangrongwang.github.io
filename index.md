@@ -28,17 +28,17 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
-### Journals
-  8\. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
-  [Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
-  New Journal of Physics, 23, 013016, 2021.
+## Journals
+8\. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
+[Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
+New Journal of Physics, 23(1), 013016, 2021.
 
 
-  7\. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.  
-    [Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0)    
-    New Journal of Physics, 21(9), 093026, 2019.
+7\. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.
+[Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0)    
+New Journal of Physics, 21(9), 093026, 2019.
 
-6\. __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
+ 6\. __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
 [Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf).  
 Physical Review E, 99(1), 2019.
 
@@ -62,7 +62,7 @@ Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0).  
 The European Physical Journal B, 87(9):221, 2014. 
 
-### Conferences
+## Conferences
 - Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
 [Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/html/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.html).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
@@ -79,7 +79,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 [A network approach for power grid robustness against cascading failures](http://ieeexplore.ieee.org/abstract/document/7325231/).         
 7th International Workshop on Reliable Networks Design and Modeling (RNDM), 2015.
 
-### PhD Thesis
+## PhD Thesis
 - Xiangrong wang. [Robustness of complex networks: Theory and application](https://repository.tudelft.nl/islandora/object/uuid:c107cc92-d275-45df-ad56-b754e8ead98c/datastream/OBJ/view), 2016.
 
 ## Research Experiences
