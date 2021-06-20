@@ -8,6 +8,7 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 
 
 ## News
+* 18/06/2021: one paper ['Optimal compression for bipartite networks'](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta) is accepted in Chaos, Solitons & Fractals.
 * 13/01/2021: one paper ['Unique superdiffusion induced by directionality in multiplex networks'](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta) is accepted in New Journal of Physics.
 * 16/08/2019: one paper ['Directionality reduces the impact of epidemics in multilayer networks'](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0) is accepted in New Journal of Physics.
 * 21/12/2018: one paper ['Structural transition in interdependent networks with regular interconnections'](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf) is accepted in Physical Review E.
@@ -29,7 +30,11 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-8. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
+9. Shuhong Huang, __Xiangrong Wang__(equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu. 
+[Optimal compression for bipartite networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)
+Chaos, Solitons & Fractals.
+
+11. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
 [Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
 New Journal of Physics, 23(1), 013016, 2021.
 
