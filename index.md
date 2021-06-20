@@ -6,7 +6,7 @@ Xiangrong Wang is a research assistant professor at Southern University of Scien
 She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/).
 Her PhD topic focused on the robustness of complex networks,  from both theoretical and applicable perspectives. From 2017 to 2018, she was a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). She has been working on the characterization of network structures with applications in power networks and transportation networks; the interplay between network structures and nonlinear dynamics in scenarios of the spreading of infectious disease, diffusion of information and population dynamics of ecological systems.
 
-__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD students, for research collaborations on network science. Feel free to contact me with your CV.
+__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD candidates, for research collaborations on network science. Feel free to contact me with your CV.
 
 ## News
 * 18/06/2021: one paper ['Optimal compression for bipartite networks'](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta) is accepted in Chaos, Solitons & Fractals.
