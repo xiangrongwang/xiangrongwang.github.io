@@ -30,9 +30,9 @@ Her PhD topic focused on the robustness of complex networks,  from both theoreti
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-9. Shuhong Huang, __Xiangrong Wang__(equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu. 
-[Optimal compression for bipartite networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)
-Chaos, Solitons & Fractals.
+9. Shuhong Huang, __Xiangrong Wang__(equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu.     
+[Optimal compression for bipartite networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
+Chaos, Solitons & Fractals.    
 
 11. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
 [Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
