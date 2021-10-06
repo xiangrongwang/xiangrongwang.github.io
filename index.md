@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" width='150' src="xw.jpeg">
+<img align="right" width='150' src="xw.jpg">
 Xiangrong Wang is a research assistant professor at Southern University of Science and Technology (SUSTech), Shenzhen, China.
 
 She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/).
