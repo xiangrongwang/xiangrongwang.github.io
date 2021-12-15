@@ -3,9 +3,9 @@
 <img align="right" width='150' src="xw.jpg">
 Xiangrong Wang is a research assistant professor at Southern University of Science and Technology (SUSTech), Shenzhen, China. She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). 
 
-She has been working on the characterization of network structures with applications in power networks and transportation networks; the interplay between network structures and nonlinear dynamics in scenarios of the spreading of infectious disease, diffusion of information and population dynamics of ecological systems.
+Her research focuses on broader aspects of complex systems. The aim is to understand the failure propagation in critical infrastructures like transportation and power systems, the diffusive dynamics of information in social networks and the maintenance of biodiversity in ecological systems.
 
-__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD candidates, for research collaborations on network science. Feel free to contact me.
+__Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD candidates, and for research collaborations on topics related to network science.
 
 ## News
 * 18/06/2021: one paper ['Optimal compression for bipartite networks'](https://www.sciencedirect.com/science/article/pii/S0960077921005610) is accepted in Chaos, Solitons & Fractals.
@@ -100,12 +100,12 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
-Introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
-Python Programming for beginners
+Introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.  
+Python Programming for Beginners
 
 ## Contact
 **Dr.Xiangrong Wang**  
 Delft University of Technology  
-Email: xiangrongwang88@gmail.com
+Email: xiangrongwang88@gmail.com; xiangrong_wang@outlook.com
 
 <a href="http://s05.flagcounter.com/more/Pii"><img src="http://s05.flagcounter.com/map/Pii/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
