@@ -1,9 +1,7 @@
 ## About Me
 
 <img align="right" width='150' src="xw.jpg">
-Xiangrong Wang is a research assistant professor at Southern University of Science and Technology (SUSTech), Shenzhen, China.
-
-She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). 
+Xiangrong Wang is a research assistant professor at Southern University of Science and Technology (SUSTech), Shenzhen, China. She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). 
 
 She has been working on the characterization of network structures with applications in power networks and transportation networks; the interplay between network structures and nonlinear dynamics in scenarios of the spreading of infectious disease, diffusion of information and population dynamics of ecological systems.
 
