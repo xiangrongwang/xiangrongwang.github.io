@@ -3,8 +3,9 @@
 <img align="right" width='150' src="xw.jpg">
 Xiangrong Wang is a research assistant professor at Southern University of Science and Technology (SUSTech), Shenzhen, China.
 
-She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/).
-Her PhD topic focused on the robustness of complex networks,  from both theoretical and applicable perspectives. From 2017 to 2018, she was a postdoctoral researcher in the department of applied mathematics at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). She has been working on the characterization of network structures with applications in power networks and transportation networks; the interplay between network structures and nonlinear dynamics in scenarios of the spreading of infectious disease, diffusion of information and population dynamics of ecological systems.
+She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). 
+
+She has been working on the characterization of network structures with applications in power networks and transportation networks; the interplay between network structures and nonlinear dynamics in scenarios of the spreading of infectious disease, diffusion of information and population dynamics of ecological systems.
 
 __Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD candidates, for research collaborations on network science. Feel free to contact me.
 
@@ -20,12 +21,6 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 * 11/07/2017: Invited speaker in the third [Delft-Girona workshop](https://www.nas.ewi.tudelft.nl/rocn/index.html) on robustness of complex networks, 11 July 2017, TU Delft, the Netherlands.
 * 21/12/2016: I succeeded in PhD Defense and obtained my PhD degree in Delft University of Technology.
 
-## Research Interests
-- Complex networks
-- Graph spectra
-- Multiplex networks
-- Ecological networks
-- Graph neural networks
 
 ## Publications 
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
@@ -107,7 +102,8 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
-Gave introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
+Introductory lecture for the master course Performance Analysis (IN4341), invited by Prof. Piet Van Mieghem.
+Python Programming for beginners
 
 ## Contact
 **Dr.Xiangrong Wang**  
