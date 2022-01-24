@@ -25,7 +25,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-9. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. ['Indirect influence in social networks as an induced percolation phenomenon'](https://arxiv.org/abs/2011.14034), PNAS, accepted, 2022.
+9. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. ['Indirect influence in social networks as an induced percolation phenomenon'](https://arxiv.org/abs/2011.14034), PNAS, accepted, 2022.   
 10. Shuhong Huang, __Xiangrong Wang__ (equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu.     
 [Optimal compression for bipartite networks](https://www.sciencedirect.com/science/article/pii/S0960077921005610)    
 Chaos, Solitons & Fractals, 151, 111207, 2021.    
