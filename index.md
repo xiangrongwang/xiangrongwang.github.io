@@ -8,7 +8,7 @@ Her research focuses on broader aspects of complex systems. The aim is to unders
 __Collaborations__: I am always looking for highly self-motivated students, including undergraduate, graduate and PhD candidates, and for research collaborations on topics related to network science.
 
 ## News
-* 18/01/2022: one paper ['Indirect influence in social networks as an induced percolation phenomenon'](https://arxiv.org/abs/2011.14034) is accepted in Proceedings of the National Academy of Sciences of the United States of America(PNAS).
+* 18/01/2022: one paper ['Indirect influence in social networks as an induced percolation phenomenon'](https://arxiv.org/abs/2011.14034) is accepted in Proceedings of the National Academy of Sciences of the United States of America (PNAS).
 * 18/06/2021: one paper ['Optimal compression for bipartite networks'](https://www.sciencedirect.com/science/article/pii/S0960077921005610) is accepted in Chaos, Solitons & Fractals.
 * 13/01/2021: one paper ['Unique superdiffusion induced by directionality in multiplex networks'](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta) is accepted in New Journal of Physics.
 * 16/08/2019: one paper ['Directionality reduces the impact of epidemics in multilayer networks'](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0) is accepted in New Journal of Physics.
