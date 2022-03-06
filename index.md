@@ -27,6 +27,10 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ### Journals
 9. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. ['Indirect influence in social networks as an induced percolation phenomenon'](https://www.pnas.org/content/119/9/e2100151119), Proceedings of the National Academy of Sciences of the United States of America, 119(9), e2100151119, 2022.
 
+11. Zhaoyue Zhong, __Xiangrong Wang__, Cunquan Qu, Guanghui Wang.     
+[Efficient algorithm based on non-backtracking matrix for community detection in signed networks](https://arxiv.org/abs/2006.15471)    
+IEEE Transactions on Network Science and Engineering, on press, 2022.    
+
 11. Shuhong Huang, __Xiangrong Wang__ (equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu.     
 [Optimal compression for bipartite networks](https://www.sciencedirect.com/science/article/pii/S0960077921005610)    
 Chaos, Solitons & Fractals, 151, 111207, 2021.    
