@@ -1,7 +1,7 @@
 ## About Me
 
 <img align="right" width='150' src="xw.jpg">
-Xiangrong Wang is a research associate professor at Southern University of Science and Technology (SUSTech), Shenzhen, China. She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). 
+Xiangrong Wang is a tenure-track assistant professor at Shenzhen University, Shenzhen, China. She obtained her PhD degree in 2016 at the Delft University of Technology under the supervision of [Prof. Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) and [Prof. Robert E. Kooij](https://www.nas.ewi.tudelft.nl/people/Rob/). From 2017 to 2018, she was a postdoctoral researcher in the faculty of Electrical Engineering, Mathematics and Computer Science at TUDelft, working with [Johan Dubbeldam](http://ta.twi.tudelft.nl/dv/users/dubbel/) and a visiting scholar at University of Zarogoza and ISI Foundation, working with [Prof. Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/). From 2019 to 2022, she was a research associate professor at Southern University of Science and Technology.  
 
 Her research focuses on broader aspects of complex systems. The aim is to understand the failure propagation in critical infrastructures like transportation and power systems, the diffusive dynamics of information in social networks and the maintenance of biodiversity in ecological systems.
 
@@ -110,7 +110,7 @@ Python Programming for Beginners
 
 ## Contact
 **Dr.Xiangrong Wang**  
-Delft University of Technology  
+Shenzhen University  
 Email: xiangrongwang88@gmail.com; xiangrong_wang@outlook.com
 
 <a href="http://s05.flagcounter.com/more/Pii"><img src="http://s05.flagcounter.com/map/Pii/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
