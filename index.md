@@ -105,9 +105,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
-Object oriented programming with C++;  
-Introductory lecture for Performance Analysis, invited by Prof. Piet Van Mieghem;  
-Python Programming for Beginners.  
+- Object oriented programming with C++;  
+- Introductory lecture for Performance Analysis, invited by Prof. Piet Van Mieghem;  
+- Python Programming for Beginners.  
 
 ## Contact
 **Dr.Xiangrong Wang**  
