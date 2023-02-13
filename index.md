@@ -28,7 +28,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 
 11. Zhaoyue Zhong, __Xiangrong Wang__, Cunquan Qu, Guanghui Wang.     
 [Efficient algorithm based on non-backtracking matrix for community detection in signed networks](https://arxiv.org/abs/2006.15471)    
-IEEE Transactions on Network Science and Engineering, on press, 2022.    
+IEEE Transactions on Network Science and Engineering, 9(4), 2200-2211, 2022.    
 
 11. Shuhong Huang, __Xiangrong Wang__ (equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu.     
 [Optimal compression for bipartite networks](https://www.sciencedirect.com/science/article/pii/S0960077921005610)    
