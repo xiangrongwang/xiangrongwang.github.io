@@ -111,6 +111,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - Journal of Statistical Mechanics: Theory and Experiment
 
 ## Teaching
+- Principles of Automatic Control;  
 - Object oriented programming with C++;  
 - Introductory lecture for Performance Analysis, invited by Prof. Piet Van Mieghem;  
 - Python Programming for Beginners.  
@@ -118,6 +119,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 ## Contact
 **Dr.Xiangrong Wang**  
 Shenzhen University  
-Email: xiangrongwang88@gmail.com; xiangrong_wang@outlook.com
+Email: xiangrongwang88@gmail.com;
 
 <a href="http://s05.flagcounter.com/more/Pii"><img src="http://s05.flagcounter.com/map/Pii/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
