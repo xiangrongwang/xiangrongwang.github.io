@@ -25,7 +25,10 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-13.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, ['Interspecific competition shapes the structural stability of mutualistic networks'](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
+13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,['Saliency-Aware Regularized Graph Neural Network'](https://arxiv.org/abs/2401.00755), Artificial Intelligence, 2024. 
+
+
+14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, ['Interspecific competition shapes the structural stability of mutualistic networks'](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
 
 12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu, ['A sequential re-opening of provinces for China’s zero-COVID policy'](https://www.nature.com/articles/s41591-022-02177-4), Nature Medicine, 1-2, 2023.
 
