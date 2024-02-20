@@ -25,7 +25,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,['Saliency-Aware Regularized Graph Neural Network'](https://www.sciencedirect.com/science/article/pii/S0004370224000146), Artificial Intelligence, 2024. 
+13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,['Saliency-Aware Regularized Graph Neural Network'](https://www.sciencedirect.com/science/article/pii/S0004370224000146), Artificial Intelligence, 328, 104078, 2024. 
 
 
 14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, ['Interspecific competition shapes the structural stability of mutualistic networks'](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
