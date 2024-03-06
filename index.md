@@ -25,14 +25,14 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,['Saliency-Aware Regularized Graph Neural Network'](https://www.sciencedirect.com/science/article/pii/S0004370224000146), Artificial Intelligence, 328, 104078, 2024. 
+13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,[Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146), Artificial Intelligence, 328, 104078, 2024. 
 
 
-14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, ['Interspecific competition shapes the structural stability of mutualistic networks'](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
+14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
 
-12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu, ['A sequential re-opening of provinces for China’s zero-COVID policy'](https://www.nature.com/articles/s41591-022-02177-4), Nature Medicine, 1-2, 2023.
+12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu, [A sequential re-opening of provinces for China’s zero-COVID policy](https://www.nature.com/articles/s41591-022-02177-4), Nature Medicine, 1-2, 2023.
 
-11. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. ['Indirect influence in social networks as an induced percolation phenomenon'](https://www.pnas.org/content/119/9/e2100151119), Proceedings of the National Academy of Sciences of the United States of America, 119(9), e2100151119, 2022.
+11. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. [Indirect influence in social networks as an induced percolation phenomenon](https://www.pnas.org/content/119/9/e2100151119), Proceedings of the National Academy of Sciences of the United States of America, 119(9), e2100151119, 2022.
 
 10. Zhaoyue Zhong, __Xiangrong Wang__, Cunquan Qu, Guanghui Wang.     
 [Efficient algorithm based on non-backtracking matrix for community detection in signed networks](https://arxiv.org/abs/2006.15471)    
