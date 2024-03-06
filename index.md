@@ -25,55 +25,35 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__ ,[Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146), Artificial Intelligence, 328, 104078, 2024. 
+13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024. 
 
 
-14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083), Chaos, Solitons & Fractals, 172, 113507,2023.
+14.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
 
-12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu, [A sequential re-opening of provinces for China’s zero-COVID policy](https://www.nature.com/articles/s41591-022-02177-4), Nature Medicine, 1-2, 2023.
+12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu. [A sequential re-opening of provinces for China’s zero-COVID policy](https://www.nature.com/articles/s41591-022-02177-4). Nature Medicine, 1-2, 2023.
 
-11. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. [Indirect influence in social networks as an induced percolation phenomenon](https://www.pnas.org/content/119/9/e2100151119), Proceedings of the National Academy of Sciences of the United States of America, 119(9), e2100151119, 2022.
+11. Jiarong Xie, __Xiangrong Wang__ (equal contribution), Ling Feng, Jin-Hua Zhao, Yamir Moreno, Yanqing Hu. [Indirect influence in social networks as an induced percolation phenomenon](https://www.pnas.org/content/119/9/e2100151119). Proceedings of the National Academy of Sciences of the United States of America, 119(9), e2100151119, 2022.
 
-10. Zhaoyue Zhong, __Xiangrong Wang__, Cunquan Qu, Guanghui Wang.     
-[Efficient algorithm based on non-backtracking matrix for community detection in signed networks](https://arxiv.org/abs/2006.15471)    
-IEEE Transactions on Network Science and Engineering, 9(4), 2200-2211, 2022.    
+10. Zhaoyue Zhong, __Xiangrong Wang__, Cunquan Qu, Guanghui Wang. [Efficient algorithm based on non-backtracking matrix for community detection in signed networks](https://arxiv.org/abs/2006.15471). IEEE Transactions on Network Science and Engineering, 9(4), 2200-2211, 2022.    
 
-9. Shuhong Huang, __Xiangrong Wang__ (equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu.     
-[Optimal compression for bipartite networks](https://www.sciencedirect.com/science/article/pii/S0960077921005610)    
-Chaos, Solitons & Fractals, 151, 111207, 2021.    
+9. Shuhong Huang, __Xiangrong Wang__ (equal contribution), Liyang Peng, Jiarong Xie, Jiachen Sun, Yanqing Hu. [Optimal compression for bipartite networks](https://www.sciencedirect.com/science/article/pii/S0960077921005610). Chaos, Solitons & Fractals, 151, 111207, 2021.    
 
-8. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno.    
-[Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta)    
-New Journal of Physics, 23(1), 013016, 2021.
+8. __Xiangrong Wang__, Alejandro Tejedor, Yi Wang and Yamir Moreno. [Unique superdiffusion induced by directionality in multiplex networks](https://iopscience.iop.org/article/10.1088/1367-2630/abdb71/meta). New Journal of Physics, 23(1), 013016, 2021.
 
 
-7. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno.   
-[Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0)    
-New Journal of Physics, 21(9), 093026, 2019.
+7. __Xiangrong Wang__,  Alberto Aleta (equal contribution), Dan Lu, Yamir Moreno. [Directionality reduces the impact of epidemics in multilayer networks](https://iopscience.iop.org/article/10.1088/1367-2630/ab3dd0), New Journal of Physics, 21(9), 093026, 2019.
 
-6. __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem.  
-[Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf).  
-Physical Review E, 99(1), 2019.
+6. __Xiangrong Wang__,  Robert E Kooij, Yamir Moreno and P. Van Mieghem. [Structural transition in interdependent networks with regular interconnections](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2019_interdepenent_nets_regular_interconnections.pdf). Physical Review E, 99(1), 2019.
 
-5. __Xiangrong Wang__,  J. L. A. Dubbeldam and P. Van Mieghem.  
-[Kemeny’s constant and the effective graph resistance](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf).  
-Linear Algebra and its Applications, vol. 535, pp 231-244, 2017.
+5. __Xiangrong Wang__,  J. L. A. Dubbeldam and P. Van Mieghem. [Kemeny’s constant and the effective graph resistance](https://www.nas.ewi.tudelft.nl/people/Piet/papers/LAA2017_Kemeny_constant_pseudoinverse_Laplacian.pdf). Linear Algebra and its Applications, vol. 535, pp 231-244, 2017.
 
-4. __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij.  
-[Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675).  
-Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
+4. __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad, Willem JA Pino and Robert E Kooij. [Multi-criteria robustness analysis of metro networks](http://www.sciencedirect.com/science/article/pii/S0378437117300675). Physica A: Statistical Mechanics and its Applications, 474:19-31, 2017.
 
-3. __Xiangrong Wang__, Robert E Kooij and Piet Van Mieghem.  
-[Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf).  
-Physical Review E, 94(4), 2016. 
+3. __Xiangrong Wang__, Robert E Kooij and Piet Van Mieghem. [Modeling region-based interconnection for interdependent networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysRevE2016_Regionbased_Interdependency.pdf). Physical Review E, 94(4), 2016. 
 
-2. __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem.  
-[Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf).  
-Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
+2. __Xiangrong Wang__, Stojan Trajanovski, Robert E Kooij and Piet Van Mieghem. [Degree distribution and assortativity in line graphs of complex networks](https://www.nas.ewi.tudelft.nl/people/Piet/papers/PhysicaA2015_line_graph_degree_assortativity.pdf). Physica A: Statistical Mechanics and its Applications, 445:343-356, 2016.
 
-1. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem.  
-[Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0).  
-The European Physical Journal B, 87(9):221, 2014. 
+1. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
 - Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
