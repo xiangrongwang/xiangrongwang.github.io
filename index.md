@@ -27,7 +27,7 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ### Journals
 13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024.
 
-14. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage]([https://www.sciencedirect.com/science/article/pii/S0960077924006714?dgcid=coauthor]). Chaos, Solitons & Fractals, 185, 115119,2024.
+14. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage](https://www.sciencedirect.com/science/article/abs/pii/S0960077924006714). Chaos, Solitons & Fractals, 185, 115119,2024.
 
 
 15.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
