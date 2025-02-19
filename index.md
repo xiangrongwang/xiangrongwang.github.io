@@ -25,12 +25,15 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 ([Google Scholar](https://scholar.google.com/citations?user=LJm0X3AAAAAJ&hl=en))
 
 ### Journals
-13. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024.
+13.F Meng, J Xie, J Sun, C Xu, Y Zeng, __Xiangrong Wang__, T Jia, S Huang, Y Deng, Y Hu.[Spreading dynamics of information on online social networks](https://www.pnas.org/doi/abs/10.1073/pnas.2410227122). 
+Proceedings of the National Academy of Sciences 122 (4), e2410227122,2025.
 
-14. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage](https://www.sciencedirect.com/science/article/abs/pii/S0960077924006714). Chaos, Solitons & Fractals, 185, 115119,2024.
+14. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024.
+
+15. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage](https://www.sciencedirect.com/science/article/abs/pii/S0960077924006714). Chaos, Solitons & Fractals, 185, 115119,2024.
 
 
-15.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
+16.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
 
 12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu. [A sequential re-opening of provinces for China’s zero-COVID policy](https://www.nature.com/articles/s41591-022-02177-4). Nature Medicine, 29, 2023.
 
