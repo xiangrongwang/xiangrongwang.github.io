@@ -65,10 +65,10 @@ Proceedings of the National Academy of Sciences 122 (4), e2410227122,2025.
 [Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/html/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.html).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
 - __Xiangrong Wang__, Ling Feng, Robert E Kooij, and Jose L Marzo.  
-[Inconsistencies among Spectral Robustness Metrics](https://www.researchgate.net/publication/329863810_Inconsistencies_among_Spectral_Robustness_Metrics).  
+[Inconsistencies among Spectral Robustness Metrics](https://link.springer.com/chapter/10.1007/978-3-030-14413-5_10).  
 14th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness, Vietnam, 2018.
 - __Xiangrong Wang__ and Piet Van Meighem.  
-[Orthogonal Eigenvector Matrix of the Laplacian](https://www.researchgate.net/profile/Xiangrong_Wang2/publication/287201773_Orthogonal_Eigenvector_Matrix_of_the_Laplacian/links/5672d5d708aedbbb3f9f6dc5.pdf).  
+[Orthogonal Eigenvector Matrix of the Laplacian](https://www.nas.ewi.tudelft.nl/people/Piet/papers/SITIS2015_OrthogonalZMatrix.pdf).  
 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Thailand, 2015.
 - __Xiangrong Wang__, Yakup Koç, Sybil Derrible, Sk Nasir Ahmad and Robert E Kooij.  
 [Quantifying the robustness of metro networks](https://arxiv.org/pdf/1505.06664.pdf).  
