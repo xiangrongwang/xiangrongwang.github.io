@@ -29,11 +29,14 @@ __Collaborations__: I am always looking for highly self-motivated students, incl
 14. F Meng, J Xie, J Sun, C Xu, Y Zeng, __Xiangrong Wang__, T Jia, S Huang, Y Deng, Y Hu.[Spreading dynamics of information on online social networks](https://www.pnas.org/doi/abs/10.1073/pnas.2410227122). 
 Proceedings of the National Academy of Sciences 122 (4), e2410227122,2025.
 
-15. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024.
+15. __Xiangrong Wang__, D Lu, Z Wu, W Xu, H Hou, Y Hu, Y Moreno.[Predicting the critical behavior of complex dynamic systems via learning the governing mechanisms]([https://www.sciencedirect.com/science/article/abs/pii/S0960077925005284]). 
+Chaos, Solitons & Fractals 198, 116515,2025.
 
-16. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage](https://www.sciencedirect.com/science/article/abs/pii/S0960077924006714). Chaos, Solitons & Fractals, 185, 115119,2024.
+16. W. Pei, W. Xu, Z. Wu, W. Li, J. Wang, G Lu, __Xiangrong Wang__. [Saliency-Aware Regularized Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0004370224000146). Artificial Intelligence, 328, 104078, 2024.
 
-17.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
+17. __Xiangrong Wang__ , Hongru Hou, Dan Lu, Zongze Wu, Yamir Moreno, [Unveiling the reproduction number scaling in characterizing social contagion coverage](https://www.sciencedirect.com/science/article/abs/pii/S0960077924006714). Chaos, Solitons & Fractals, 185, 115119,2024.
+
+18.  __Xiangrong Wang__ , Thomas Peron, Johan L. A. Dubbeldam, Sonia Kefi, Yamir Moreno, [Interspecific competition shapes the structural stability of mutualistic networks](https://www.sciencedirect.com/science/article/pii/S0960077923004083). Chaos, Solitons & Fractals, 172, 113507,2023.
 
 12.  C Xu, __Xiangrong Wang__ (equal contribution), H Hu, H Qin, J Wang, J Shi, Y Hu. [A sequential re-opening of provinces for China’s zero-COVID policy](https://www.nature.com/articles/s41591-022-02177-4). Nature Medicine, 29, 2023.
 
@@ -61,6 +64,10 @@ Proceedings of the National Academy of Sciences 122 (4), e2410227122,2025.
 1. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
+- Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
+[Heterogeneous Influence Maximization in User Recommendation](https://www.arxiv.org/abs/2508.13517).  
+__CIKM__, 2025.
+
 - Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
 [Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/html/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.html).  
 IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__), 2019.
