@@ -64,7 +64,7 @@ Chaos, Solitons & Fractals 198, 116515,2025.
 1. __Xiangrong Wang__, Evangelos Pournaras, Robert E Kooij and Piet Van Mieghem. [Improving robustness of complex networks via the effective graph resistance](https://link.springer.com/article/10.1140/epjb/e2014-50276-0). The European Physical Journal B, 87(9):221, 2014. 
 
 ### Conferences
-- Wenjie Pei, Jiyuan Zhang, __Xiangrong Wang__, Lei Ke, Xiaoyong Shen and Yu-wing Tai.  
+- Hongru Hou,Jiachen Sun, Wenqing Lin, Wendong Bi, __Xiangrong Wang__, and Deqing Yang.  
 [Heterogeneous Influence Maximization in User Recommendation](https://www.arxiv.org/abs/2508.13517).  
 __CIKM__, 2025.
 
